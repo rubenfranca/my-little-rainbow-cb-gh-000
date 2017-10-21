@@ -34,6 +34,6 @@ div {
   border-top-color: #8a2be2;
 }
 
-#red { /* this selects any elements with the red id */
-  border-top-color: #f00;
+#violet { /* this selects any elements with the red id */
+  border-top-color: #d300c9;
 }
